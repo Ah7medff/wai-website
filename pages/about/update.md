@@ -157,7 +157,7 @@ We also offer ideas for [Promoting and Implementing Web Accessibility](/about/pa
 * [W3C WAI Staff](/about/#wai-staff)
 * Participants of: [AG](https://www.w3.org/groups/wg/ag/participants), [APA](https://www.w3.org/groups/wg/apa/participants), [ARIA](https://www.w3.org/groups/wg/aria/participants), [EPUB](https://www.w3.org/groups/wg/epub/participants), and other [W3C groups](https://www.w3.org/groups/)
 
-<section class="default-grid teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
+<section class="teaser making-web-accessible" aria-labelledby="mwa-title" style="border: 1px solid var(--line-grey);">
   <header class="inner teaser-h">
     <h2 id="mwa-title">
       <span class="title">Making the Web Accessible</span>
